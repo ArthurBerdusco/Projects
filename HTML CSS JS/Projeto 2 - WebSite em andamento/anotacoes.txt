@@ -1,0 +1,11 @@
+CRIA PRIMEIRO AS ANIMAÇÕES E A BASE DEPOIS REPLICA PARA AS FORMULAS E IMAGENS
+
+
+1º Cria a seção
+2º insere o titulo
+3º insere o primeiro texto descrição
+4º cria o design no css para estes primeiro titulo e descrição na seção
+5º Criar a div principal de linhas
+6º Criar dentro da div principal as colunas com a mesma classe
+7º css div colunas
+8º css div colunas se tiver imagem

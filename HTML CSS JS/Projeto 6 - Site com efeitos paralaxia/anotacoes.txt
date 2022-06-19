@@ -1,0 +1,10 @@
+Projeto 6 Anotações - 
+
+
+
+Para criar este efeito é usado uma imagem principal de uma paisagem por exemplo e então é cortado a mesma em varias imagens diferentes com o objetivo de pegar a sobreposição de cada parte da imagem
+
+Usar o adobe photoshop
+
+
+usar javascript para manipular as variaveis do css de acordo com a rolagem Y e X
